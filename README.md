@@ -1,4 +1,4 @@
-#👽 CStealer 👽
+# 👽 CStealer 👽
 
 ✨ CStealer is a new tool made by Mark Security and inspired by @opps3c's Pythonic tool.
 CStealer aims to create a file called <b>main.c</b> so that C beginners can learn more easily
